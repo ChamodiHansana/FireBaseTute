@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="msg1">Enter new ID:</string>
+    <string name="msg2">Enter your name:</string>
+    <string name="msg3">Enter your address:</string>
+    <string name="msg4">Enter your contct number:</string>
+</resources>
